@@ -34,6 +34,7 @@ Library
 
 test-suite test
   main-is: Test.hs
+  other-modules: Data.IntDisjointSet
   type: exitcode-stdio-1.0
   hs-source-dirs: .
 
