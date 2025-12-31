@@ -1,5 +1,5 @@
 Name:                disjoint-set
-Version:             0.2
+Version:             0.3
 Synopsis:            Persistent disjoint-sets, a.k.a union-find.
 Description:         This is a persistent data structure for disjoint sets.
                      .
